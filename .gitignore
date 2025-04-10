@@ -1,0 +1,8 @@
+# 대용량 파일 무시
+*.h5
+*.pth
+*.tar.gz
+
+# 데이터 폴더 무시
+assignment3/data/
+assignment3/cs231n/datasets/
